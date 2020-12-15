@@ -21,7 +21,7 @@ Result:
 ![](./pneumonia-epoch-50_all.png)
 
 **epoch=200**
-![1](./pneumonia-epoch-200_models.png)
+![2](./pneumonia-epoch-200_models.png)
 
-![](./pneumonia-epoch-200_all.png)
+![1](./pneumonia-epoch-200_all.png)
 
