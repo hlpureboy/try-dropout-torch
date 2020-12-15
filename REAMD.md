@@ -15,10 +15,13 @@ Four experiments:
    - dropout  ->[0.41,0.41,0.41,0.41,0.41,0.41]     2.5/6 <-->0.41
 
 Result:
-
+**epoch=50**
 ![1](./pneumonia-epoch-50_models.png)
 
 ![](./pneumonia-epoch-50_all.png)
 
+**epoch=200**
+![1](./pneumonia-epoch-200_models.png)
 
+![](./pneumonia-epoch-200_all.png)
 
